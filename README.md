@@ -7,9 +7,9 @@ This Repo contains the alanbloxxr.xyz Site Source code, Google has flagged our s
 - [ ] GameScripts and Joining
 - [ ] Rendering
 - [x] 2FA (this was a pain in the ass and decided to risk it.)
-- [ ] Forgot Password (half done but still check marking it)
-- [ ] Create Page (done a quarter of it but its EXTREMELY buggy)
-- [ ] Multi-Client
+- [ ] Forgot Password (half done)
+- [ ] Create Games Page (done a quarter of it but its EXTREMELY buggy)
+- [ ] Multi-Client (revivals with 2-5 client year support)
 
 
 # WARNING!
