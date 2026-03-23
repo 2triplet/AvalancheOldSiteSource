@@ -1,6 +1,6 @@
 <?php
 
-// Fixed 404 check - safe for both localhost and production
+// Fixed 404 check - safe for both localhost and production - I did this on mobile btw, ive made lots of mistakes :sob:
 if (http_response_code() === 404 || 
     (isset($_SERVER['REDIRECT_STATUS']) && $_SERVER['REDIRECT_STATUS'] === '404')) {
     include '404.php';
