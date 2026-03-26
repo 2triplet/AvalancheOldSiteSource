@@ -13,7 +13,7 @@ This Repo contains the alanbloxxr.xyz Site Source code, Google has flagged our s
 
 
 # WARNING!
-This source is buggy and i do not recommend it for revivals, But can be implemented/fixed even further.
+This source is buggy and i do not recommend it for revivals, But can be implemented/fixed even further. Also keep in mind that some files have rbxl implementation when its **not.** because this bullshit pisses me off and people keep bugging me to add create
 
 # How to use/Step 1
 Download the source code by pressing the green button "Code" and press "Download ZIP" Once its finished, Extract the file using whatever file extracter you want, Now download a webserver (not an actual one a localhost one) Such as XAMPP, Laragon, WAMP, or any other one you prefer, I'll leave some links here:
